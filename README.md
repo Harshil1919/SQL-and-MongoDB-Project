@@ -1,4 +1,4 @@
-****🚀 SQL & MongoDB: HR Analytics for Employee Attrition & Performance**
+**🚀 SQL & MongoDB: HR Analytics for Employee Attrition & Performance**
 
 I recently worked on an HR Analytics project focused on Employee Attrition & Performance using SQL and MongoDB, where I analyzed key workforce trends to support data-driven decision-making. This project aimed to identify the factors influencing employee retention, performance, and overall workforce efficiency.
 
